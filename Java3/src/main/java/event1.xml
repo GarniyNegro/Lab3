@@ -1,0 +1,7 @@
+<Event>
+    <eventId>2</eventId>
+    <eventName>Guitar Concert</eventName>
+    <eventDate>2024-11-20</eventDate>
+    <roomId>104</roomId>
+    <eventSeats>300</eventSeats>
+</Event>
